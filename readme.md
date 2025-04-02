@@ -30,5 +30,5 @@ Originally developed as a freelance project for a small startup offering random 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/product-key-bot.git
-cd product-key-bot
+git clone https://github.com/BoiOG/key-automation-bot.git
+cd key-automation-bot
