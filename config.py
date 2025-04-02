@@ -1,0 +1,20 @@
+# config.py
+
+# Discord Role IDs (used for permission checks)
+SUPPORT_ROLE_ID = 123456789012345678
+TRIAL_SUPPORT_ROLE_ID = 123456789012345679
+ADMIN_ROLE_ID = 123456789012345680
+KEY_ROLE_ID = 123456789012345681
+
+# Channel IDs
+MODLOGS_CHANNEL_ID = 123456789012345682
+LOGS_CHANNEL_ID = 123456789012345683
+
+# Guild (Server) ID
+GUILD_ID = 123456789012345684
+
+# Daily account generation limit per user
+DAILY_LIMIT = 5
+
+# Time of day to reset usage counts (UTC, format: HH:MM)
+RESET_TIME = "00:00"
